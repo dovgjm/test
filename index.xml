@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="test face" commit="826c30a7d11333138137bc9efe3445aa2c138fdf">
+<index version="1" name="test face" commit="8bd74205853422dfce15422336242b2d40aaf293">
   <category name="AAA">
     <reapack name="a1.lua" type="script">
       <version name="0.5" time="2025-04-09T11:24:01Z">
