@@ -1,6 +1,6 @@
 -- @version 0.5
 -- @provides
---   [main] .
+--   [main] a1.lua
 --   [main] a2.lua
 --   [main] a3.lua
 
