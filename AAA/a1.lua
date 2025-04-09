@@ -1,9 +1,12 @@
+
+-- @description AAA
 -- @version 0.5
 -- @provides
---   [main] a2.lua
---   [main] a3.lua
---   [data] BBB/b1.txt
---   [data] BBB/b2.txt
+--   [main] AAA/a1.lua
+--   [main] AAA/a2.lua
+--   AAA/BBB/b1.txt
+--   AAA/BBB/b2.txt
+-- @about Once I met a man
 
 
 reaper.ShowMessageBox("Hello World", "Script code here", 0)
