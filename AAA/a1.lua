@@ -1,6 +1,5 @@
 -- @version 0.5
 -- @provides
---   [nomain] .
 --   [main] a2.lua
 --   [main] a3.lua
 --   BBB/b1.txt
