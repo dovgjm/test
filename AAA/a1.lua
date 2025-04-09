@@ -1,8 +1,7 @@
-
--- @description AAA
 --
 -- @version 0.6
 --
+-- @description AAA
 -- @provides
 --   [main] AAA/a2.lua
 --   [main] AAA/a3.lua
