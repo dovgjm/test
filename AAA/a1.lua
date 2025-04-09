@@ -8,7 +8,7 @@
 --   [data] AAA/BBB/b1.txt
 --   [data] AAA/BBB/b2.txt
 --
--- @about Once I met a man
+-- 
 
 
 reaper.ShowMessageBox("Hello World", "Script code here", 0)
