@@ -10,8 +10,8 @@
         <source main="main">https://github.com/dovgjm/test/raw/d3382255c26e8aff637adde889c07f3668206bc6/AAA/a1.lua</source>
         <source main="main" file="a2.lua">https://github.com/dovgjm/test/raw/d3382255c26e8aff637adde889c07f3668206bc6/AAA/a2.lua</source>
         <source main="main" file="a3.lua">https://github.com/dovgjm/test/raw/d3382255c26e8aff637adde889c07f3668206bc6/AAA/a3.lua</source>
-        <source type="script" file="BBB/b1.txt">https://github.com/dovgjm/test/raw/d3382255c26e8aff637adde889c07f3668206bc6/AAA/BBB/b1.txt</source>
-        <source type="script" file="BBB/b2.txt">https://github.com/dovgjm/test/raw/d3382255c26e8aff637adde889c07f3668206bc6/AAA/BBB/b2.txt</source>
+        <source file="BBB/b1.txt">https://github.com/dovgjm/test/raw/d3382255c26e8aff637adde889c07f3668206bc6/AAA/BBB/b1.txt</source>
+        <source file="BBB/b2.txt">https://github.com/dovgjm/test/raw/d3382255c26e8aff637adde889c07f3668206bc6/AAA/BBB/b2.txt</source>
       </version>
     </reapack>
   </category>
