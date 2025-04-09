@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="test face" commit="9c3f1b51d1f4259ec026a17f6550795283ec819a">
+<index version="1" name="test face" commit="d3382255c26e8aff637adde889c07f3668206bc6">
   <category name="AAA">
     <reapack name="a1.lua" type="script">
       <version name="0.5" time="2025-04-09T11:24:01Z">
         <source main="main" file="a2.lua">https://github.com/dovgjm/test/raw/304554d6a77db2f0c0a31b1530e467d3c41522b4/AAA/a2.lua</source>
         <source main="main" file="a3.lua">https://github.com/dovgjm/test/raw/304554d6a77db2f0c0a31b1530e467d3c41522b4/AAA/a3.lua</source>
+      </version>
+      <version name="0.6" time="2025-04-09T23:30:25Z">
+        <source main="main">https://github.com/dovgjm/test/raw/d3382255c26e8aff637adde889c07f3668206bc6/AAA/a1.lua</source>
+        <source main="main" file="a2.lua">https://github.com/dovgjm/test/raw/d3382255c26e8aff637adde889c07f3668206bc6/AAA/a2.lua</source>
+        <source main="main" file="a3.lua">https://github.com/dovgjm/test/raw/d3382255c26e8aff637adde889c07f3668206bc6/AAA/a3.lua</source>
+        <source type="data" file="BBB/b1.txt">https://github.com/dovgjm/test/raw/d3382255c26e8aff637adde889c07f3668206bc6/AAA/BBB/b1.txt</source>
+        <source type="data" file="BBB/b2.txt">https://github.com/dovgjm/test/raw/d3382255c26e8aff637adde889c07f3668206bc6/AAA/BBB/b2.txt</source>
       </version>
     </reapack>
   </category>
