@@ -4,5 +4,6 @@
 @provides
   [main] a2.lua
   [main] a3.lua
+  [nomain script] BBB/*.txt
 
 
